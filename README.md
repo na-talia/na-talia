@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+URL:https://www.codewars.com/users/na-talia/badges/micro
+
 <!--
 **na-talia/na-talia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
