@@ -4,10 +4,10 @@
 
 - 🌱 My passion is web-development with a focus on design and 
 usability.
- - 🌱  During my time at the HackYourFuture bootcamp, I 
+ - 🌱  During my time at the <b> HackYourFuture </b> bootcamp, I 
 expanded my knowledge in the programming field and put that 
 knowledge into practice while working in a team.
-- 🌱 Additionally, my studies in UX/UI design have given me a perspective on 
+- 🌱 Additionally, my studies in  <b> UX/UI design  </b> have given me a perspective on 
 creating applications from the client's point of view.
 
 - 📫 How to reach me: <p><a href="https://www.linkedin.com/in/nataliapersson/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natalia Persson" height="30" width="40" /></a></p>
