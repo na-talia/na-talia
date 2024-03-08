@@ -10,7 +10,7 @@ knowledge into practice while working in a team.
 - 🌱 Additionally, my studies in  <b> UX/UI design  </b> have given me a perspective on 
 creating applications from the client's point of view.
 
-- 📫 How to reach me: <p><a href="https://www.linkedin.com/in/nataliapersson/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natalia Persson" height="30" width="40" /></a></p>
+- 📫 How to reach me: <p><a href="https://www.linkedin.com/in/nataliapersson/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natalia Persson" height="40" width="50" /></a></p>
 
 - Codewars: <p>![image](https://user-images.githubusercontent.com/86012464/233157657-c2a277e9-18e4-4c44-a326-351fd774ba25.png)
 </p>
