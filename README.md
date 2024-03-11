@@ -20,7 +20,7 @@ creating applications from the client's point of view.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,react,nodejs,jquery,mysql,postgres " /> <br>
-   <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,css,bootstrap " />
+   <img src="https://skillicons.dev/icons?i=tailwind,materialui,styledcomponents,css,sass,bootstrap " />
   </a>
 </p>
 
